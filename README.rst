@@ -47,11 +47,7 @@ Installation
 
 ::
 
-    pip install page-xml-gen
-
-You can also install the in-development version with::
-
-    pip install https://github.com/eyra-benchmark/page_xml_gen/archive/master.zip
+    pip install git+https://github.com/eyra-benchmark/page_xml_gen
 
 
 Documentation
